@@ -1,4 +1,5 @@
-export type GainsBucket = {
+git push origin main
+npm run deployexport type GainsBucket = {
   profits: number
   losses: number
 }
